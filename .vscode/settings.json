@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "reader.h": "c",
+        "token.h": "c",
+        "error.h": "c"
+    }
+}
